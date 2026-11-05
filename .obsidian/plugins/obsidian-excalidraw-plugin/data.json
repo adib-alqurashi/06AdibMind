@@ -189,10 +189,10 @@
         "hasOutline": false,
         "outlineWidth": 1,
         "options": {
-          "thinning": 0.75,
+          "thinning": 1,
           "smoothing": 0.5,
           "streamline": 0.5,
-          "easing": "easeOutCubic",
+          "easing": "easeOutExpo",
           "start": {
             "cap": true,
             "taper": 0,
