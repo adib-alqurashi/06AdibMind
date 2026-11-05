@@ -189,10 +189,10 @@
         "hasOutline": false,
         "outlineWidth": 1,
         "options": {
-          "thinning": 0.6,
+          "thinning": 0.75,
           "smoothing": 0.5,
           "streamline": 0.5,
-          "easing": "easeOutSine",
+          "easing": "easeOutCubic",
           "start": {
             "cap": true,
             "taper": 0,
@@ -486,7 +486,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 1,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
